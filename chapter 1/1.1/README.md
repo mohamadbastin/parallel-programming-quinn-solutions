@@ -11,6 +11,7 @@ c. How long does it take p people to sort one deck of cards? Try this
 experiment for p = 1, 2, ..., 6. How does your algorithm change as
 p changes?
 
+--------------
 
 a. so my take is that if putting one card in its right place takes 1 unit of time, then a deck of 
 cards which we will assume consists of 52 cards, takes 52 units of time to be ordered by one person.
