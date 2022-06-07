@@ -1,14 +1,14 @@
 Given a set of five unsigned, eight-bit integers with decimal values 13, 22,
 43, 64, and 99, determine the decimal result of the following reductions:
 
-a. add
-b. multiply
-c. maximum
-d. minimum
-e. bitwise or
-f. bitwise and
-g. logical or
-h. logical and
+a.add
+b.multiply
+c.maximum
+d.minimum
+e.bitwise or
+f.bitwise and
+g.logical or
+h.logical and
 
 Assume the meaning of the and and or operators is the same as in the
 C programming language.
